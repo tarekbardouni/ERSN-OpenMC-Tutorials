@@ -1,4 +1,4 @@
-Here are a short videos that shows how to use ERSN-OpenMC-Py 
+Here are short videos that show how to use ERSN-OpenMC-Py 
 1. to install openmc.
 >The following steps are described:
 >    - update & upgrade the system & install requiered packages
